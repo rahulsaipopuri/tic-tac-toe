@@ -33,3 +33,4 @@ The game prevents moves on occupied cells or after the game ends.
 Win conditions include horizontal, vertical, and diagonal lines.
 The reset function clears the board and restores the initial state, but note that script.js has a bug: currentPlayer = '1' should be currentPlayer = 'X' in resetGame().
 
+Visit this link to check the web app - https://rahulsaipopuri.github.io/tic-tac-toe/
